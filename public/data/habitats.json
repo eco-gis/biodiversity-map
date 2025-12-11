@@ -1,0 +1,110 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Randen-Stelzenkorridor",
+        "quality": "hoch",
+        "habitat": "offene Waldränder / Lichtungen",
+        "focus_species": ["Bachstelze", "Schafstelze"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [8.565, 47.765],
+            [8.585, 47.765],
+            [8.585, 47.78],
+            [8.565, 47.78],
+            [8.565, 47.765]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rheinaue Flurlingen–Feuerthalen",
+        "quality": "mittel",
+        "habitat": "Flussaue / Ufergehölz",
+        "focus_species": ["Gebirgsstelze", "Bachstelze"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [8.615, 47.678],
+            [8.645, 47.678],
+            [8.645, 47.695],
+            [8.615, 47.695],
+            [8.615, 47.678]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beringen-Bachtobel",
+        "quality": "hoch",
+        "habitat": "strukturreiche Kulturlandschaft",
+        "focus_species": ["Schafstelze", "Bachstelze"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [8.55, 47.705],
+            [8.575, 47.705],
+            [8.575, 47.72],
+            [8.55, 47.72],
+            [8.55, 47.705]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Klettgau-Heckenlandschaft",
+        "quality": "mittel",
+        "habitat": "Hecken, Rebbau, Obstgärten",
+        "focus_species": ["Schafstelze", "Bachstelze"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [8.45, 47.68],
+            [8.49, 47.68],
+            [8.49, 47.70],
+            [8.45, 47.70],
+            [8.45, 47.68]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thaynger Moos",
+        "quality": "sehr hoch",
+        "habitat": "Feuchtwiese / Moorrest",
+        "focus_species": ["Schafstelze", "Gebirgsstelze", "Bachstelze"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [8.68, 47.75],
+            [8.705, 47.75],
+            [8.705, 47.765],
+            [8.68, 47.765],
+            [8.68, 47.75]
+          ]
+        ]
+      }
+    }
+  ]
+}
